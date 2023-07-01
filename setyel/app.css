@@ -26,12 +26,12 @@ body {
 }
 .biodata {
   background-color: #ffff;
-  transform: translateY(-3%);
+  transform: translateY(-6%);
   margin-top: 67px;
 }
 #prrjects {
   background: linear-gradient(#8f468c 10%, #dff274 90%, #fefefe 100%);
-  transform: translateY(-3%);
+  transform: translateY(-1%);
   padding: 80;
   padding-top: 50px;
 }
@@ -42,6 +42,6 @@ body {
 }
 .footer {
   background-color: #ffffff;
-  transform: translateY(-25%);
+  transform: translateY(-30%);
   margin-top: 67px;
 }
