@@ -31,7 +31,7 @@ body {
 }
 #prrjects {
   background: linear-gradient(#8f468c 10%, #dff274 90%, #fefefe 100%);
-  transform: translateY(-1%);
+  transform: translateY(-15%);
   padding: 80;
   padding-top: 50px;
 }
